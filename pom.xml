@@ -7,7 +7,7 @@
 
   <groupId>io.github.fran-abril</groupId>
   <artifactId>base-exception</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>Base Exception for simplify the exception hierarchy in the projects</name>
   <description>This is a library for a simplify the exception hierarchy in the projects</description>
@@ -33,7 +33,7 @@
     <connection>scm:git:git://github.com/Fran-Abril/base-exception.git</connection>
     <developerConnection>scm:git:https://github.com/Fran-Abril/base-exception.git</developerConnection>
     <url>https://github.com/Fran-Abril/base-exception/tree/main</url>
-    <tag>HEAD</tag>
+    <tag>base-exception-1.0.0</tag>
   </scm>
 
   <properties>
