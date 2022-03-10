@@ -1,9 +1,22 @@
 # Base Exception
 
-<img src="https://app.travis-ci.com/Fran-Abril/base-exception.svg?branch=main"></img>
+[![TravisCI](https://app.travis-ci.com/Fran-Abril/base-exception.svg?branch=main)](https://app.travis-ci.com/github/Fran-Abril/base-exception)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.fran-abril/base-exception.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.fran-abril%22%20AND%20a:%22base-exception%22)
 
 Base exception for using in all your projects with easy hierarchy to build
 
+## 🔽 How to install
+
+Add te dependency in your pom.xml
+
+```xml
+<dependency>
+  <groupId>io.github.fran-abril</groupId>
+  <artifactId>base-exception</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 
 ## 🚀 How to use
 
